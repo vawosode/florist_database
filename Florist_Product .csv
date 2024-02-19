@@ -1,0 +1,11 @@
+Product_code,Product_name,Supplier_id,Product_price
+1,Roses,A7145,24.99
+2,Fidel,L5645,25.00
+3,"Swiss Cheese Plant",L5645,15.00
+4,"Peace Lily",L5645,15.00
+5,"Succulent Plant",L5645,15.00
+6,Azalea,A7145,18.00
+7,Lily,A7145,10.00
+8,Tulip,A7145,10.00
+9,"Snake Plant",L5645,12.00
+10,"Bird of Paradise Plant",L5645,35.00
